@@ -3,6 +3,6 @@ matplotlib==3.5.1
 numpy==1.21.5
 scipy==1.7.3
 tensorflow==2.8.0
-implicit==0.5.2
+implicit==0.4.8
 tqdm==4.63.0
-surprise==0.1
+scikit-surprise==1.1.1
