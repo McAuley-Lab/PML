@@ -3,7 +3,7 @@
 This repo contains official code workbooks for textbook  [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/), about following topics:
 
 | Chapter | Topics | Implemented (or Used) Models |
-| --- | --- | --- |
+| :---: | --- | --- |
 | 2 | Regression and Feature Engineering | Linear Regression (sklearn) |
 | 3 | Classification and the Learning Pipeline | Linear Regression (TF, PyTorch), Logistic Regression (TF, PyTorch), Ridge Model (sklearn) |
 | 4 | Introduction to Recommender Systems | Similarity-based Recommendation Models |
