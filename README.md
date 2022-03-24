@@ -5,9 +5,9 @@ This repo contains official code workbooks for textbook  [Personalized Machine L
 | Chapter | Topics | Implemented (or Used) Models |
 | --- | --- | --- |
 | 2 | Regression and Feature Engineering | Linear Regression (sklearn) |
-| 3 | Classification and the Learning Pipeline | Linear Regression (TF), Logistic Regression (TF), Ridge Model (sklearn) |
+| 3 | Classification and the Learning Pipeline | Linear Regression (TF, PyTorch), Logistic Regression (TF, PyTorch), Ridge Model (sklearn) |
 | 4 | Introduction to Recommender Systems | Similarity-based Recommendation Models |
-| 5 | Model-based Approaches to Recommendation | Latent Factor Model (surpirse, TF), BPR (implicit, TF),  |
+| 5 | Model-based Approaches to Recommendation | Latent Factor Model (surpirse, TF, PyTorch), BPR (implicit, TF, PyTorch)  |
 | 6 | Content and Structure in Recommender Systems | Factorization Machine (pyFM), BPR (TF) |
 | 7 | Temporal and Sequential Models | AutoRegression (sklearn), MF (TF), PMC(TF), FPMC (TF) |
 | 8 | Personalized Models of Text | BoW, N-Gram, TF-IDF, Ridge Model (sklearn), word2vec (gensim), item2vec (gensim),  |
