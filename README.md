@@ -8,11 +8,11 @@ This repo contains official code workbooks for textbook  [Personalized Machine L
 | 3 | Classification and the Learning Pipeline | Linear Regression (TF, PyTorch), Logistic Regression (TF, PyTorch), Ridge Model (sklearn) |
 | 4 | Introduction to Recommender Systems | Similarity-based Recommendation Models |
 | 5 | Model-based Approaches to Recommendation | Latent Factor Model (surpirse, TF, PyTorch), BPR (implicit, TF, PyTorch)  |
-| 6 | Content and Structure in Recommender Systems | Factorization Machine (pyFM), BPR (TF) |
-| 7 | Temporal and Sequential Models | AutoRegression (sklearn), MF (TF), PMC(TF), FPMC (TF) |
+| 6 | Content and Structure in Recommender Systems | Factorization Machine (pyFM), BPR (TF, PyTorch) |
+| 7 | Temporal and Sequential Models | AutoRegression (sklearn), MF (TF, PyTorch), FMC(TF, PyTorch), FPMC (TF, PyTorch) |
 | 8 | Personalized Models of Text | BoW, N-Gram, TF-IDF, Ridge Model (sklearn), word2vec (gensim), item2vec (gensim),  |
-| 9 | Personalized Models of Visual Data | Visual Compatibility Model (TF),  |
-| 10 | The Consequences of Personalized Machine Learning | Latent Factor Model (TF), BPR (implicit) |
+| 9 | Personalized Models of Visual Data | Visual Compatibility Model (TF, PyTorch),  |
+| 10 | The Consequences of Personalized Machine Learning | Fairness-Aware Latent Factor Model (TF, PyTorch), BPR (implicit) |
 
 For each chapter, we include a `requirements.txt` file and a  jupyter notebook `Chapter_*.ipynb`. To run the code in notebook of chapter i, you need:
  
